@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+   <NUnit>
+     <TestOutputXml>D:\TestResults</TestOutputXml>
+	<test-suite>total</test-suite>
+<test-suite>passed</test-suite>
+<test-suite>failed</test-suite>
+ </NUnit>
+</RunSettings>
